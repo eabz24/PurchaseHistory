@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Purchase History</string>
+    <string name="history">Lastest History</string>
+    <string name="canceled">Canceled</string>
+    <string name="Date">23/06/2020</string>
+    <string name="product">Proglucamune</string>
+    <string name="name">CellSentials</string>
+    <string name="price">RM79.90</string>
+    <string name="prices">RM99.90</string>
+    <string name="view">View</string>
+    <string name="todo">TODO</string>
+    <string name="to">TO</string>
+</resources>
